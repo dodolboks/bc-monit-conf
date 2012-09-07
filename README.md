@@ -1,7 +1,7 @@
 bc-monit-conf
 =============
 
-bukucinta.com[1] monit conf 
+http://bukucinta.com monit conf 
 
-[1]http://bukucinta.com
+
 
