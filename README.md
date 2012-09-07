@@ -1,7 +1,7 @@
 bc-monit-conf
 =============
 
-`bukucinta.com <http://bukucinta.com>`_. monit conf 
+bukucinta.com[1] monit conf 
 
-We also have a `Jenkins service <http://jenkins.tibold.nl/job/djangorestframework1/>`_ which runs our test suite. 
+[1]http://bukucinta.com
 
